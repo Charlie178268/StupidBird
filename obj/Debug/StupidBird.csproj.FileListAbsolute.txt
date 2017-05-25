@@ -1,0 +1,10 @@
+E:\CSharp\csharp5_Project\StupidBird\StupidBird\bin\Debug\StupidBird.exe.config
+E:\CSharp\csharp5_Project\StupidBird\StupidBird\bin\Debug\StupidBird.exe
+E:\CSharp\csharp5_Project\StupidBird\StupidBird\bin\Debug\StupidBird.pdb
+E:\CSharp\csharp5_Project\StupidBird\StupidBird\obj\Debug\StupidBird.csprojResolveAssemblyReference.cache
+E:\CSharp\csharp5_Project\StupidBird\StupidBird\obj\Debug\StupidBird.Properties.Resources.resources
+E:\CSharp\csharp5_Project\StupidBird\StupidBird\obj\Debug\StupidBird.csproj.GenerateResource.Cache
+E:\CSharp\csharp5_Project\StupidBird\StupidBird\obj\Debug\StupidBird.exe
+E:\CSharp\csharp5_Project\StupidBird\StupidBird\obj\Debug\StupidBird.pdb
+E:\CSharp\csharp5_Project\StupidBird\StupidBird\obj\Debug\StupidBird.Form1.resources
+E:\CSharp\csharp5_Project\StupidBird\StupidBird\obj\Debug\StupidBird.EntryForm.resources
